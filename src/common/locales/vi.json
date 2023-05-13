@@ -1,0 +1,17 @@
+{
+    "navbar.home": "Home",
+    "navbar.about": "About",
+    "navbar.work": "Work",
+    "navbar.skills": "Skills",
+    "navbar.contact": "Contact",
+    "navbar.homeKey": "home",
+    "navbar.aboutKey": "about",
+    "navbar.workKey": "work",
+    "navbar.skillsKey": "skills",
+    "navbar.contactKey": "contact",
+
+    "header.webDeveloper": "Fullstack Web Developer",
+    "header.deepLearningRearch": "Deep Learning Researcher",
+
+    "skills.title": "Skills and Experience"
+}
